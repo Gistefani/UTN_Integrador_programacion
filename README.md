@@ -18,21 +18,22 @@ Comparar la **eficiencia y funcionamiento** de dos algoritmos de ordenamiento so
 
 El programa imprimirá:
 
-<i class="fa fa-hand-o-right" aria-hidden="true"></i>Lista original
+*Lista original
 
-<i class="fa fa-hand-o-right" aria-hidden="true"></i>Lista ordenada con cada algoritmo
+*Lista ordenada con cada algoritmo
 
-<i class="fa fa-hand-o-right" aria-hidden="true"></i>Tiempos de ejecución 
+*Tiempos de ejecución 
+
 ## 📂 Archivos
 
-<i class="fa fa-hand-o-right" aria-hidden="true"></i> `integrador_stefani_valcarcel.py`: Código fuente con las funciones de ordenamiento y pruebas.
-<i class="fa fa-hand-o-right" aria-hidden="true"></i> `README.md`: Este archivo de documentación.
-<i class="fa fa-hand-o-right" aria-hidden="true"></i> `carpeta en formato pdf`
+*`integrador_stefani_valcarcel.py`: Código fuente con las funciones de ordenamiento y pruebas.
+* `README.md`: Este archivo de documentación.
+* `carpeta en formato pdf`
 
 
 
 
-🔍 Reflexiones del equipo
+##🔍 Reflexiones del equipo
 
 Selection Sort es simple y fácil de entender, pero es mas lento con listas grandes.
 
@@ -40,13 +41,14 @@ Quick Sort es mucho más eficiente con listas grandes gracias a su complejidad O
 
 Esta práctica muestra claramente por qué es importante elegir bien el algoritmo en base al tamaño de los datos.
 
-💡 Mejoras posibles
+##💡 Mejoras posibles
 
 Comparar con otros algoritmos de busquda.
 
-##Integrantes
-<i class="fa fa-hand-o-right" aria-hidden="true"></i> Stefani Gisele
-<i class="fa fa-hand-o-right" aria-hidden="true"></i>Valcarcel Paola
+##Integrantes:
+
+ *Stefani Gisele
+ *Valcarcel Paola
 
 
 
