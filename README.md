@@ -26,9 +26,11 @@ El programa imprimirá:
 
 ## 📂 Archivos
 
-🟢`integrador_stefani_valcarcel.py`: Código fuente con las funciones de ordenamiento y pruebas.
-🟢 `README.md`: Este archivo de documentación.
-🟢 `carpeta en formato pdf`
+🟢integrador_stefani_valcarcel.py: Código fuente con las funciones de ordenamiento y pruebas.
+
+🟢 README.md`: Este archivo de documentación.
+
+🟢 carpeta en formato pdf
 
 
 
@@ -47,8 +49,9 @@ Comparar con otros algoritmos de busquda.
 
 ## Integrantes:
 
- *Stefani Gisele
- *Valcarcel Paola
+ 👩‍💻Stefani Gisele
+ 
+ 👩‍💻Valcarcel Paola
 
 
 
