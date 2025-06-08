@@ -20,7 +20,7 @@ estudiantes = [
     {"nombre": "Benicio", "nota": 45},
 ]
 
-estudiantes_random = [{"nombre": f"Estudiante{i}", "nota": random.randint(0, 100)} for i in range(100)]
+estudiantes_random = [{"nombre": f"Estudiante{i}", "nota": random.randint(0, 10000)} for i in range(10000)]
 
 #Definición por selección
 #Este algoritmo compara elemento por elemento. 
@@ -54,25 +54,22 @@ print("Original:")
 for e in estudiantes:
     print(f"{e['nombre']}: {e['nota']}")
 
+
 inicio_selection = time.time()
 ordenados_selection = selection_sort_objs(estudiantes)
 fin_selection = time.time()
 tiempo_selection = fin_selection - inicio_selection
-
 
 print("\nOrdenados con Selection Sort:")
 for e in ordenados_selection:
     print(f"{e['nombre']}: {e['nota']}")
 print(f"Tiempo de ejecución (Selection Sort): {tiempo_selection:.10f} segundos")
 
-
 inicio_selection = time.time()
 ordenados_selection = selection_sort_objs(estudiantes_random)
 fin_selection = time.time()
 tiempo_selection_random = fin_selection - inicio_selection
-print(f"\nTiempo de ejecución (Selection Sort con lista aleatoria de 100 elementos): {tiempo_selection_random:.10f} segundos")
-
-
+print(f"\nTiempo de ejecución (Selection Sort con lista aleatoria de 10.000 elementos): {tiempo_selection_random:.10f} segundos")
 
 inicio_quick = time.time()
 ordenados_quick = quick_sort_objs(estudiantes)
@@ -88,5 +85,5 @@ inicio_quick_random = time.time()
 ordenados_quick_random= quick_sort_objs(estudiantes_random)
 fin_quick_random = time.time()
 tiempo_quick_random = fin_quick_random - inicio_quick_random
-print(f"\nTiempo de ejecución ( Quick con lista aleatoria de 100 elementos): {tiempo_quick_random:.10f} segundos")
+print(f"\nTiempo de ejecución ( Quick con lista aleatoria de 10.000 elementos): {tiempo_quick_random:.10f} segundos")
 
