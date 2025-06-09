@@ -37,7 +37,7 @@ El programa imprimirá:
 
 ## 🔍 Reflexiones 
 
-Selection Sort es simple y fácil de entender, pero es mas lento con listas grandes.
+Selection es simple y fácil de entender, pero es mas lento con listas grandes.
 
 Quick Sort es mucho más eficiente con listas grandes gracias a su complejidad O(n log n).
 
@@ -53,6 +53,7 @@ Comparar con otros algoritmos de busquda.
  
  👩‍💻Valcarcel Paola
 
-
+## Enlace del video
+https://youtu.be/yyMRlhzyzs4?si=C6SaXelKuC36_MQs
 
   
