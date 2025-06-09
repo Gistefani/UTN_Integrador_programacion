@@ -3,7 +3,7 @@ Trabajo integrador de la materia Programación correspondiente a la tecnicatura 
 
 # Ordenamiento de Estudiantes por Nota
 
-Este proyecto compara dos algoritmos de ordenamiento (Selection Sort y Quick Sort) aplicados a una lista de estudiantes que contienen nombre y nota.
+Este proyecto compara dos algoritmos de ordenamiento (Selection y Quick Sort) aplicados a una lista de estudiantes que contienen nombre y nota.
 
 ## 📌 Objetivo
 
